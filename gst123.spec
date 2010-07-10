@@ -13,6 +13,7 @@ Url: http://space.twc.de/~stefan/gst123.php
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: libgstreamer-plugins-base-devel
 BuildRequires: gtk+2-devel
+BuildRequires: ncurses-devel
 
 %description
 The program gst123 is designed to be a more flexible command line
