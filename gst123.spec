@@ -1,12 +1,12 @@
 %define name gst123
-%define version 0.0.1
+%define version 0.1.2
 %define release %mkrel 1
 
 Summary: Command line audio player based on GStreamer
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: http://space.twc.de/~stefan/gst123/%{name}-%{version}.tar.gz
+Source0: http://space.twc.de/~stefan/gst123/%{name}-%{version}.tar.bz2
 License: LGPLv2+
 Group: Sound
 Url: http://space.twc.de/~stefan/gst123.php
