@@ -1,5 +1,5 @@
 %define name gst123
-%define version 0.1.3
+%define version 0.1.4
 %define release %mkrel 1
 
 Summary: Command line audio player based on GStreamer
