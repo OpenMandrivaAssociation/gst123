@@ -1,6 +1,6 @@
 %define name gst123
-%define version 0.3.1
-%define release 2
+%define version 0.3.3
+%define release 1
 
 Summary: Command line audio player based on GStreamer
 Name: %{name}
@@ -10,8 +10,8 @@ Source0: http://space.twc.de/~stefan/gst123/%{name}-%{version}.tar.bz2
 License: LGPLv2+
 Group: Sound
 Url: http://space.twc.de/~stefan/gst123.php
-BuildRequires: libgstreamer-plugins-base-devel
-BuildRequires: gtk+2-devel
+BuildRequires: pkgconfig(gstreamer-plugins-base-1.0)
+BuildRequires: pkgconfig(gtk+-2.0)
 BuildRequires: ncurses-devel
 
 %description

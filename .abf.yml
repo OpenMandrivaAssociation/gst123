@@ -1,2 +1,4 @@
+removed_sources:
+  gst123-0.3.1.tar.bz2: 7b14ed8e16d6c61d5dfce610a9dafe0c26a923e4
 sources:
-  "gst123-0.3.1.tar.bz2": 7b14ed8e16d6c61d5dfce610a9dafe0c26a923e4
+  gst123-0.3.3.tar.bz2: a5e3804e51a6930bab1e7b5aa85f7340920c7441
