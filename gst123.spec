@@ -5,7 +5,7 @@ Release: 1
 Source0: http://space.twc.de/~stefan/gst123/%{name}-%{version}.tar.bz2
 License: LGPLv2+
 Group: Sound
-Url: http://space.twc.de/~stefan/gst123.php
+Url: https://space.twc.de/~stefan/gst123.php
 BuildRequires: pkgconfig(gstreamer-plugins-base-1.0)
 BuildRequires: pkgconfig(gtk+-2.0)
 BuildRequires: ncurses-devel
